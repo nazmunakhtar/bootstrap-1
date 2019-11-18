@@ -1,0 +1,60 @@
+img{
+	max-width: 100%;
+	max-height: 100vh;
+	
+}
+.nav-link:hover{
+	background-color: #28a745;
+    border-radius: 5px;
+    transition-duration: 0.8s;
+}
+
+.card{
+	margin-left: 20px;
+}
+.col-xl-4{
+	margin-left: 10px;
+}
+.col-xl-4 img{
+	padding: 10px;
+}
+.modal-section .row{
+	align-items: center;
+	padding: 10px;
+}
+footer{
+
+}
+.copyright{max-width: 50%;flex-basis: 50%;}
+.copyright p{
+    color: #616ca8;
+    font-size: 14px;
+}
+.social{
+    max-width: 50%;
+    flex-basis: 50%;
+}
+.social .row{
+    justify-content: flex-end;
+}
+.social-icon{
+    margin: 22px 0px 29px 10px;
+}
+.social-icon a{
+    color: white;
+    font-size: 22px;
+}
+.social-icon a:hover{
+	color: #28a745;
+}
+
+footer .row{
+    justify-content: flex-end;
+    align-items: center;
+}
+h6{
+	color: #999;
+	font-size: 12px;
+	font-weight: 400;
+	margin-top: 10px;
+}
